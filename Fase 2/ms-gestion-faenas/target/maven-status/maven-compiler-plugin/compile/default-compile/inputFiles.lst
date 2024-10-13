@@ -1,0 +1,12 @@
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\controller\FaenaController.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\controller\TipoFaenaController.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\model\Faena.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\model\Response.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\model\TipoFaena.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\MsGestionFaenasApplication.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\repository\IFaenaRepository.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\repository\ITipoFaenaRepository.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\service\FaenaService.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\service\IFaenaService.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\service\ITipoFaenaService.java
+c:\Users\HP\Desktop\Capstone\NombreProyecto_Capstone24_DUOC_VM\Fase 2\ms-gestion-faenas\src\main\java\cl\capstone\ms_gestion_faenas\service\TipoFaenaService.java
