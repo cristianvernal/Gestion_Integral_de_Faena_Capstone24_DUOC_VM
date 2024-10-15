@@ -1,0 +1,12 @@
+cl\capstone\ms_gestion_faenas\repository\ITipoFaenaRepository.class
+cl\capstone\ms_gestion_faenas\service\ITipoFaenaService.class
+cl\capstone\ms_gestion_faenas\repository\IFaenaRepository.class
+cl\capstone\ms_gestion_faenas\MsGestionFaenasApplication.class
+cl\capstone\ms_gestion_faenas\controller\FaenaController.class
+cl\capstone\ms_gestion_faenas\model\TipoFaena.class
+cl\capstone\ms_gestion_faenas\model\Faena.class
+cl\capstone\ms_gestion_faenas\service\IFaenaService.class
+cl\capstone\ms_gestion_faenas\service\FaenaService.class
+cl\capstone\ms_gestion_faenas\controller\TipoFaenaController.class
+cl\capstone\ms_gestion_faenas\service\TipoFaenaService.class
+cl\capstone\ms_gestion_faenas\model\Response.class
